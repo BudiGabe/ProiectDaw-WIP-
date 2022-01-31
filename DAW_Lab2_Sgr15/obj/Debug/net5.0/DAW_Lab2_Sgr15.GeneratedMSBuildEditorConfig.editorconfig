@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = DAW_Lab2_Sgr15
+build_property.ProjectDir = K:\Important\Facultate\An 2\Sem 1\ASP\DAW_Lab3_Sgr15\DAW_Lab2_Sgr15\
